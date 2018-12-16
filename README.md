@@ -5,7 +5,7 @@ Primjenom matematičkih transformacija možemo obraditi sliku.
 
 Korak 1: Posvetljivanje slike
 
-Ako posvetljujemo sliku za n% potrebno je da  vrijednost svakog elementa matrice (piksel)  povećamo  za n%.
+Ako posvetljujemo sliku za n% potrebno je da  vrijednost svakog elementa matrice (piksela)  povećamo  za n%.
 
 Korak 2: Kontrast slike
 
